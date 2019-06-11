@@ -3,9 +3,7 @@
 依次执行以下几条命令 
 ```jsx
 npm install
-```jsx
 
-```jsx
 npm run dev
 ```jsx
 
