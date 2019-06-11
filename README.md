@@ -5,6 +5,6 @@
 npm install
 
 npm run dev
-```jsx
+```
 
 ### 浏览器 http://localhost:3000/
